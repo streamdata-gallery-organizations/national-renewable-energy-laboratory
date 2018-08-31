@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - National Renewable Energy Laboratory",
+	"description": "This is a repository of national renewable energy laboratory APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/national-renewable-energy-laboratory.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://national-renewable-energy-laboratory.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "National Renewable Energy Laboratory",
+			"x-api-slug": "national-renewable-energy-laboratory",
+			"description": "The National Renewable Energy Laboratory (NREL) is the nations primary laboratory for renewable energy and energy efficiency research and development (R&D).",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1097-national-renewable-energy-laboratory.jpg",
+			"humanURL": "http://nrel.gov",
+			"baseURL": "https://developer.nrel.gov//api/transportation-incentives-laws",
+			"tags": "National Renewable Energy Laboratory",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/national-renewable-energy-laboratory/master/_listings/national-renewable-energy-laboratory/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "National Renewable Energy Laboratory",
+	"include": [
+		{
+			"name": "National Renewable Energy Laboratory",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/national-renewable-energy-laboratory/master/_listings/national-renewable-energy-laboratory/apis.yaml"
+		}
+	]
+}

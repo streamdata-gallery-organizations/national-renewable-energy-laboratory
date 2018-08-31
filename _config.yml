@@ -4,7 +4,7 @@ url: national-renewable-energy-laboratory.streamdata.gallery
 tag: National Renewable Energy Laboratory
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-entities
+github_user: streamdata-gallery-topics
 github_repo: national-renewable-energy-laboratory
 github_branch: master
 collections:
